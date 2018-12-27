@@ -1,4 +1,4 @@
-package edu.test;
+package operators;
 
 public class IncrementDecrement {
 
@@ -37,7 +37,7 @@ public class IncrementDecrement {
         System.out.println(b);
         
         a=12;
-        a = (a++)+(++a);
+        a = (a++)+(++a);//((12)+(14))
         System.out.println("Guess ? "+ (a));
         System.out.println(a);
 		
