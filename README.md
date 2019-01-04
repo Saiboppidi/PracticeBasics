@@ -2,7 +2,7 @@
 
 git log // to view last commit messages
 
-git push // to push changes to remote
+git push origin master// to push changes to remote
 
 
 //To stage files
